@@ -1,2 +1,2 @@
 # juliomeridah.github.io
-Showcase of coding projects
+Creating Happiness website
